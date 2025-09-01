@@ -18,7 +18,11 @@ Explore the key initiatives we are working on:
 
 - **Cross-Platform SwiftUI**: Our flagship project to bring SwiftUI to platforms beyond Apple's ecosystem.
   - [OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)
-  - [OpenGraph](https://github.com/OpenSwiftUIProject/OpenGraph)
+  - [OpenAttributeGraph](https://github.com/OpenSwiftUIProject/OpenAttributeGraph)
+  - [OpenCoreGraphics](https://github.com/OpenSwiftUIProject/OpenCoreGraphics)
+  - [OpenObservation](https://github.com/OpenSwiftUIProject/OpenObservation)
+  - [OpenRenderBox](https://github.com/OpenSwiftUIProject/OpenRenderBox)
+
 - **SwiftUI Debug Tools**: A set of tools and APIs that help developers debug, profile, and inspect SwiftUI code on Apple platforms.
   - [SwiftUIViewDebug](https://github.com/OpenSwiftUIProject/SwiftUIViewDebug)
   - [AGDebugKit](https://github.com/OpenSwiftUIProject/AGDebugKit)
